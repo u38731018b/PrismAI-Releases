@@ -1,11 +1,11 @@
 {
   "ok": true,
   "edition": "full",
-  "version": "2.4.67",
-  "installer_name": "PrismAI_Full_Setup_2.4.67.exe",
-  "installer_url": "https://github.com/u38731018b/PrismAI-Releases/releases/download/v2.4.67/PrismAI_Full_Setup_2.4.67.exe",
-  "size": 562851729,
-  "sha256": "cf1f17714a9a60ff604f82419b51f4f7ff9227cabb613af547e688de26f0d9da",
+  "version": "2.4.68",
+  "installer_name": "PrismAI_Full_Setup_2.4.68.exe",
+  "installer_url": "https://github.com/u38731018b/PrismAI-Releases/releases/download/v2.4.68/PrismAI_Full_Setup_2.4.68.exe",
+  "size": 562767926,
+  "sha256": "3b3fdecd6f98bbece98e93faa01ad096d1aaa842c30ed1cbf1917e7d2fefa9a7",
   "notes": "PrismAI full edition (AI video + sketch). User Skill, assistant sessions, and project records are preserved.",
-  "published_at": "2026-10-07T00:23:01Z"
+  "published_at": "2026-10-07T01:24:47Z"
 }
